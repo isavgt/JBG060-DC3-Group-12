@@ -1,7 +1,7 @@
 # South Sudan Project 
 
 ## DISCLAIMER
-On the day of the deadline, we found that the 'sentiment_analysis' file was not saved correctly. Therefore, we miss the code of the figures on the poster. However, the figures itselve were saved in the figs folder. 
+On the day of the deadline, we found that the 'sentiment_analysis' file was not saved correctly. Therefore, we miss the code of the figures on the poster. However, the figures itselve were saved in the figs folder. We have tried everything to get the code back, but were unsuccessful. 
 
 
 ## Code description
