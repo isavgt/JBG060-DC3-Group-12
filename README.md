@@ -1,4 +1,9 @@
 # South Sudan Project 
+
+## DISCLAIMER
+On the day of the deadline, we found that the 'sentiment_analysis' file was not saved correctly. Therefore, we miss the code of the figures on the poster. However, the figures itselve were saved in the figs folder. 
+
+
 ## Code description
 This code has been extended by testing sentiment analysis on a test set of articles and article summaries. The random test set is created in creation_test_set.py. This file produces 2 csv files:
 1. Random_summaries.csv: a csv with a random selection of summaries from articles_summary_cleaned. 
